@@ -1,4 +1,4 @@
-# Ex. 8: Modelling and Forecasting with ARMA Processes
+# Time Series Exercise 8: Modelling and Forecasting with ARMA Processes
 
 ## Name: Aravindan T
 
