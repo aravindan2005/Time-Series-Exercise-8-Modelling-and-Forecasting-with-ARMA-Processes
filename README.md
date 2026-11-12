@@ -124,9 +124,3 @@ plt.show()
 ## RESULT
 Thus, the ARMA(2,1) model was successfully implemented using Python. The time series was modelled, forecast values were generated, and model performance was evaluated using MAE, MSE, and RMSE.
 
-
-
-
-## RESULT
-
-Thus, the ARMA(2,1) model was successfully implemented using Python. The time series was modelled, forecast values were generated, and model performance was evaluated using MAE, MSE, and RMSE.
